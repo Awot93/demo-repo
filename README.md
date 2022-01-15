@@ -5,4 +5,4 @@ I'm open to advice and efficient educative materials and platforms on how to ach
  
 # Testing update function
 
-Print("Welcome back to code world!)
+Print("Welcome back to code world!")
